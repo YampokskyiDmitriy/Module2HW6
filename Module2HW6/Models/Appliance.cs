@@ -2,9 +2,9 @@
 
 namespace Module2HW6.Models
 {
-    public abstract class Applience
+    public abstract class Appliance
     {
-        public abstract ApplienceType ApplienceType { get; }
+        public abstract ApplianceType ApplienceType { get; }
         public abstract SizeType SizeType { get; }
         public double PowerConsumption { get; set; }
         public string Name { get; set; }

@@ -2,7 +2,7 @@
 
 namespace Module2HW6.Models.Electronic.Video
 {
-    public class TV : VideoApplience
+    public class TV : VideoAppliance
     {
         public override VideoType VideoType => VideoType.LED;
 

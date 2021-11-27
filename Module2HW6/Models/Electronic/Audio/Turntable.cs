@@ -2,7 +2,7 @@
 
 namespace Module2HW6.Models.Electronic.Audio
 {
-    public class Turntable : AudioApplience
+    public class Turntable : AudioAppliance
     {
         public override AudioType AudioType => AudioType.Electromechanical;
 

@@ -2,7 +2,7 @@
 
 namespace Module2HW6.Models.Electronic.Audio
 {
-    public class Recorder : AudioApplience
+    public class Recorder : AudioAppliance
     {
         public override AudioType AudioType => AudioType.Magnetic;
 

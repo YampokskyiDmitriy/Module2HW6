@@ -2,8 +2,8 @@
 
 namespace Module2HW6.Models.Household
 {
-    public abstract class Household : Applience
+    public abstract class Household : Appliance
     {
-        public override ApplienceType ApplienceType => ApplienceType.Household;
+        public override ApplianceType ApplienceType => ApplianceType.Household;
     }
 }

@@ -2,7 +2,7 @@
 
 namespace Module2HW6.Models.Electronic.Video
 {
-    public abstract class VideoApplience : Electronic
+    public abstract class VideoAppliance : Electronic
     {
         public abstract VideoType VideoType { get; }
     }

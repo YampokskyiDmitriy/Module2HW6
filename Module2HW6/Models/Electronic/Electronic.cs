@@ -2,8 +2,8 @@
 
 namespace Module2HW6.Models.Electronic
 {
-    public abstract class Electronic : Applience
+    public abstract class Electronic : Appliance
     {
-        public override ApplienceType ApplienceType => ApplienceType.Electronic;
+        public override ApplianceType ApplienceType => ApplianceType.Electronic;
     }
 }

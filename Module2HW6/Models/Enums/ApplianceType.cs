@@ -1,6 +1,6 @@
 ﻿namespace Module2HW6.Models.Enums
 {
-    public enum ApplienceType
+    public enum ApplianceType
     {
         Household,
         Electronic

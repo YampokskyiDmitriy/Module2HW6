@@ -2,7 +2,7 @@
 
 namespace Module2HW6.Models.Electronic.Video
 {
-    public class Camera : VideoApplience
+    public class Camera : VideoAppliance
     {
         public override VideoType VideoType => VideoType.IPS;
 
